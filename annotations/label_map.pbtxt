@@ -1,12 +1,12 @@
 item { 
  id: 1 
- name: 'garbage_bag' 
-}
-item { 
- id: 2 
  name: 'container_small' 
 }
 item { 
- id: 3 
+ id: 2 
  name: 'cardboard' 
+}
+item { 
+ id: 3 
+ name: 'garbage_bag' 
 }
