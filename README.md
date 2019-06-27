@@ -1,8 +1,6 @@
 # Garbage object detection (Alpha)
 
-![Example 1](https://github.com/maartensukel/garbage-object-detection/blob/master/examples/prediction_example_1.gif)
-
-![Example 2](https://github.com/maartensukel/garbage-object-detection/blob/master/examples/prediction_example_2.gif)
+![Example 1](https://github.com/maartensukel/garbage-object-detection/blob/master/examples/prediction_example_2.gif)
 
 A repository with the source code to train an object detection model on a small dataset of annotated trash related images. The annotated objects in this dataset are garbage containers, garbage bags and cardboard.
 
