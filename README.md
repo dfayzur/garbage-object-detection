@@ -54,6 +54,8 @@ python object_detection/train.py \
         --pipeline_config_path=faster_rcnn_resnet101.config
 ```
 
+The model used in the animation was trained for +/- 20.000 steps.
+
 ### 6) Export the Inference Graph
 The training time is dependent on the amount of training data. 
 
