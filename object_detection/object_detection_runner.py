@@ -63,7 +63,7 @@ def detect_objects(image_path):
     fig.add_axes(ax)
 
     plt.imshow(image_np, aspect = 'auto')
-    plt.savefig('/var/scratch/msukel/Detect Garbage Bag/Custom-Object-Detection/output//{}'.format(image_path), dpi = 62)
+    plt.savefig('/output//{}'.format(image_path), dpi = 62)
     plt.close(fig)
 
 # TEST_IMAGE_PATHS = [ os.path.join(PATH_TO_TEST_IMAGES_DIR, 'image-{}.jpg'.format(i)) for i in range(1, 4) ]
