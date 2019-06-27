@@ -12,7 +12,7 @@ The code to train the model is based on the code from [this repository](https://
 
 ## Data
 
-![Example 1](https://github.com/maartensukel/garbage-object-detection/blob/master/examples/annotation_example1.png)![Example 2](https://github.com/maartensukel/garbage-object-detection/blob/master/examples/annotation_example2.png)
+![Example 1](https://github.com/maartensukel/garbage-object-detection/blob/master/examples/annotation_example1.png)![Example 2](https://github.com/maartensukel/garbage-object-detection/blob/master/examples/annotation_example5.png)
 
 
 The dataset consist of 994 images and 994 annotations. A total of 4111 objects is annotated.
