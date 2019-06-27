@@ -20,7 +20,7 @@ The dataset consist of 994 images and 994 annotations. A total of 4111 objects i
 
 ## 1) Download the dataset
 
-The dataset with the annotations and images can be downloaded [here](https://drive.google.com/file/d/1aT0EsE_DopAaTemeMiGenjesr9tUr75i/view?usp=sharing)
+The dataset with the annotations and images can be downloaded [here](https://drive.google.com/file/d/1aT0EsE_DopAaTemeMiGenjesr9tUr75i/view?usp=sharing). The annotations and images should be placed in the folders 'annotations/xmls/' and 'images'.
 
 ## 2) Install Tensorflow
 
